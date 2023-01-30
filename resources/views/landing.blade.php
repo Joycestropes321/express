@@ -56,7 +56,7 @@
             <div class="col-6 col-xl-2">
               <h1 class="mb-0 site-logo">
                 <a href="index.html" class="h2 mb-0"
-                  >EUR<span class="text-primary">.</span>
+                  >WellsFago<span class="text-primary">.</span>
                 </a>
               </h1>
             </div>
