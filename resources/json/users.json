@@ -16,22 +16,22 @@
         "logo": "kimberly.jpeg",
         "occupation": "Lawyer"
     },
-    "nicole@gmail.com": {
+    "cooperhardy369@gmail.com": {
         "id": 2,
-        "short_name": "Nicole Kimberly",
-        "name": "Nicole Kimberly Thompson",
-        "email": "nicole@gmail.com",
-        "password": "nicole@124$!",
-        "wallet": "3,500,000.00",
+        "short_name": "Hardy Cooper",
+        "name": "Hardy Z Cooper",
+        "email": "cooperhardy369@gmail.com",
+        "password": "thorphzy_41",
+        "wallet": "7,540,000.00",
         "currency": "fa fa-dollar-sign",
         "tax": "",
         "imt": "",
         "atcc": "",
         "owner": "on",
         "education": "",
-        "location": "Ma, USA",
-        "nok": "Beth Wagner",
-        "logo": "kimberly.jpeg",
-        "occupation": "Therapist"
+        "location": "Detroit Michigan",
+        "nok": "Angela Cooper",
+        "logo": "cooper.jpeg",
+        "occupation": "EOD"
     }
 }
