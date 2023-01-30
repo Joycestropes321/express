@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Express &mdash; Union Research</title>
+    <title>Wells &mdash; Fago</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -186,7 +186,7 @@
                 About Us
               </h2>
               <p class="lead" data-aos="fade-up" data-aos-delay="100">
-                Get to know about Express Union Reserve.
+                Get to know about Wellsfago.
               </p>
             </div>
           </div>
@@ -195,7 +195,7 @@
               <figure class="circle-bg">
                 <img
                   src="{{  asset('landing/images/img_2.jpg') }}"
-                  alt="Free Website Template by Free-Template.co"
+                  alt="wellsfago"
                   class="img-fluid"
                 />
               </figure>
@@ -208,8 +208,7 @@
               <h3 class="text-black mb-4">We Solve Your Financial Problem</h3>
 
               <p>
-                Far far away, behind the word mountains, lies Express Union
-                Reserve, a multinational financial institution that provides
+                Far far away, behind the word mountains, lies Wellsfago, a multinational financial institution that provides
                 individuals, businesses, private and public institutions across
                 the globe.
               </p>
@@ -249,7 +248,7 @@
             >
               <img
                 src="{{  asset('landing/images/flaticon-svg/svg/004-cart.svg') }}"
-                alt="Free Website Template by Free-Template.co"
+                alt="Fo"
                 class="img-fluid w-25 mb-4"
               />
               <h3 class="card-title">Online Shoppings</h3>
@@ -281,7 +280,7 @@
               <figure class="circle-bg">
                 <img
                   src="{{  asset('landing/images/about_2.jpg') }}"
-                  alt="Free Website Template by Free-Template.co"
+                  alt="wellsfag"
                   class="img-fluid"
                 />
               </figure>
@@ -330,7 +329,7 @@
                 <div class="unit-4-icon">
                   <img
                     src="{{  asset('landing/images/flaticon-svg/svg/001-wallet.svg') }}"
-                    alt="Free Website Template by Free-Template.co"
+                    alt="Website"
                     class="img-fluid w-25 mb-4"
                   />
                 </div>
@@ -352,7 +351,7 @@
                 <div class="unit-4-icon">
                   <img
                     src="{{  asset('landing/images/flaticon-svg/svg/006-credit-card.svg') }}"
-                    alt="Free Website Template by Free-Template.co"
+                    alt="fago Website"
                     class="img-fluid w-25 mb-4"
                   />
                 </div>
@@ -375,7 +374,7 @@
                 <div class="unit-4-icon">
                   <img
                     src="{{  asset('landing/images/flaticon-svg/svg/002-rich.svg') }}"
-                    alt="Free Website Template by Free-Template.co"
+                    alt="Website"
                     class="img-fluid w-25 mb-4"
                   />
                 </div>
@@ -399,7 +398,7 @@
                 <div class="unit-4-icon">
                   <img
                     src="{{  asset('landing/images/flaticon-svg/svg/003-notes.svg') }}"
-                    alt="Free Website Template by Free-Template.co"
+                    alt="Free"
                     class="img-fluid w-25 mb-4"
                   />
                 </div>
@@ -422,7 +421,7 @@
                 <div class="unit-4-icon">
                   <img
                     src="{{  asset('landing/images/flaticon-svg/svg/004-cart.svg') }}"
-                    alt="Free Website Template by Free-Template.co"
+                    alt="Insurance"
                     class="img-fluid w-25 mb-4"
                   />
                 </div>
@@ -448,7 +447,7 @@
               <figure class="circle-bg">
                 <img
                   src="{{  asset('landing/images/img_4.jpg') }}"
-                  alt="Free Website Template by Free-Template.co"
+                  alt="Fgs"
                   class="img-fluid"
                 />
               </figure>
@@ -525,13 +524,13 @@
               <span class="icon-phone d-block h2 text-primary"></span>
               <a href="#">+1 232 3235 324</a>
             </p>
-          </div> -->
+          </div> 
             <div class="col-md-4 text-center">
               <p class="mb-0">
                 <span class="icon-mail_outline d-block h2 text-primary"></span>
                 <a href="#">support@expressunionreserve.com</a>
               </p>
-            </div>
+            </div> -->
           </div>
           <div class="row">
             <div class="col-md-12 mb-5">
@@ -600,8 +599,7 @@
                 <div class="col-md-5">
                   <h2 class="footer-heading mb-4">About Us</h2>
                   <p>
-                    Far far away, behind the word mountains, lies Express Union
-                    Reserve, a multinational financial institution that provides
+                    Far far away, behind the word mountains, lies Wellsfago, a multinational financial institution that provides
                     individuals, businesses, private and public institutions
                     across the globe.
                   </p>
@@ -679,7 +677,6 @@
           <div class="row pt-5 mt-5 text-center">
             <div class="col-md-12">
               <div class="border-top pt-5">
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
                 <p>
                   Copyright &copy;
                   <script>
@@ -687,7 +684,6 @@
                   </script>
                   All rights reserved
                 </p>
-                <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
               </div>
             </div>
           </div>
