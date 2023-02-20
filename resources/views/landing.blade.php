@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Wells &mdash; Fago</title>
+    <title>Usaa</title>
     <meta charset="utf-8" />
     <meta
       name="viewport"
@@ -56,7 +56,7 @@
             <div class="col-6 col-xl-2">
               <h1 class="mb-0 site-logo">
                 <a href="index.html" class="h2 mb-0"
-                  >WellsFago<span class="text-primary">.</span>
+                  >USAA<span class="text-primary">.</span>
                 </a>
               </h1>
             </div>
