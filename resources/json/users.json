@@ -16,22 +16,22 @@
         "logo": "kimberly.jpeg",
         "occupation": "Lawyer"
     },
-    "cooperhardy369@gmail.com": {
+    "harrykelcasillas@gmail.com": {
         "id": 2,
-        "short_name": "Hardy Cooper",
-        "name": "Hardy Z Cooper",
-        "email": "cooperhardy369@gmail.com",
-        "password": "Coopzack1234",
-        "wallet": "7,540,000.00",
+        "short_name": "Harry Kelvin",
+        "name": "Harry Kelvin Casillas ",
+        "email": "harrykelcasillas@gmail.com",
+        "password": "harry@10",
+        "wallet": "11,467,910.00",
         "currency": "fa fa-dollar-sign",
         "tax": "",
         "imt": "",
         "atcc": "",
         "owner": "on",
         "education": "",
-        "location": "Detroit Michigan",
-        "nok": "Angela Cooper",
-        "logo": "cooper.jpeg",
-        "occupation": "EOD"
+        "location": "Tulsa Oklahoma",
+        "nok": "Rebecca Sharon Casillas ",
+        "logo": "harry.jpeg",
+        "occupation": "Gym instructor"
     }
 }
