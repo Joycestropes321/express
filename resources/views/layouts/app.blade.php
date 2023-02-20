@@ -64,7 +64,7 @@
 </div>
        <!-- /.content-wrapper -->
   <footer class="main-footer">
-    <center><strong>Copyright &copy; 1996-2022 <a href="#">Wellsfago</a>.</strong></center>
+    <center><strong>Copyright &copy; 1996-2023 <a href="#">Usaa</a>.</strong></center>
     All rights reserved. 
   </footer>
 
